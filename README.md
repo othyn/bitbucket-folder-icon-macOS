@@ -1,4 +1,4 @@
-# BitBucket Folder Icon for OS X Yosemite
+# BitBucket Folder Icon for OS X Yosemite / El Capitan
 
 Made so that it fits nicely alongside all the others inside your home directory ... or wherever.
 
