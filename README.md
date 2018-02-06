@@ -1,7 +1,7 @@
 # Bitbucket Folder Icon for macOS
 Made so that it fits nicely alongside all the others inside your home directory... or wherever.
 
-[[preview.png]]
+[preview image](preview.png)
 
 ## Sources
 - Folder icon: [Coloradan on DeviantArt](http://coloradan.deviantart.com/art/Yosemite-Custom-Folder-459481587)
